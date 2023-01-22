@@ -14,6 +14,10 @@ MCardoso - http://mcardoso.net.br/
 
 JCastilho - https://www.jcastilhoconsultoria.com.br/
 
+FRTC - https://frtc.com.br/
+
+FRDP - https://frdp.com.br/
+
 Atualmente busco formação em desenvolvimento mobile com as linguagens Flutter, Dart e Kotlin. Com esse conhecimento quero ajudar de alguma forma a melhorar o mundo onde vivemos!
 
 Caso precisem de algo estarei a disposição em ajudar.
